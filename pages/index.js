@@ -1,5 +1,5 @@
 import React from 'react'
-import Cat from '../static/cat.svg'
+import Cat from '../svg/cat.svg'
 
 export default () => (
   <div className='container'>
